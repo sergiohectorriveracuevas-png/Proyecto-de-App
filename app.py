@@ -346,7 +346,7 @@ with tabs[7]:
 
 with tabs[8]:
     st.subheader("Acerca de & Licencia")
-    st.markdown(\"\"\"
+    st.markdown("""  """)
 **SR Ingeniería – Cálculos Eléctricos PRO v1.0**  
 © 2025 SR Ingeniería. Todos los derechos reservados.
 
