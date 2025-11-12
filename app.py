@@ -347,7 +347,25 @@ with tabs[7]:
 with tabs[8]:
     st.subheader("Acerca de & Licencia")
     st.markdown("""  """)
-**SR Ingeniería – Cálculos Eléctricos PRO v1.0**  
+# --- 9) Acerca de & Licencia
+with tabs[8]:
+    st.subheader("Acerca de & Licencia")
+    st.markdown("""
+**SR Ingeniería - Cálculos Eléctricos PRO v1.0**  
+© 2025 SR Ingeniería. Todos los derechos reservados.
+
+Esta herramienta implementa modelos **aproximados** para pre-dimensionamiento y verificación rápida.  
+No reemplaza la ingeniería de detalle ni el cumplimiento normativo aplicable (IEC/IEEE/NTC/NFPA).
+
+**Licenciamiento**  
+- Uso por usuario/empresa según clave de activación.  
+- Distribución no autorizada prohibida.  
+- Librerías open-source: Streamlit, Pandas, Numpy, Altair, ReportLab.
+
+**Soporte y personalización**  
+Integración de normas IEC 60364/60909, IEEE 141, límites ΔV por tipo de circuito, tablas de ampacidad completas, reportes corporativos (PDF), y más.
+""")
+ 
 © 2025 SR Ingeniería. Todos los derechos reservados.
 
 Modelos **aproximados** para pre-dimensionamiento y verificación rápida.  
