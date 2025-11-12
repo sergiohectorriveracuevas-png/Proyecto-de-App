@@ -1,0 +1,9 @@
+{
+  "keys": {
+    "demo@sr-ingenieria.cl": "SR-1234-2025",
+    "cliente@empresa.cl": "SR-ACME-2025"
+  },
+  "trial_keys": [
+    "SR-TRIAL-2025"
+  ]
+}
