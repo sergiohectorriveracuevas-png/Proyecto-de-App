@@ -83,4 +83,4 @@ with tabs[1]:
 with tabs[2]:
     st.subheader("Acerca de")
     st.markdown("**SR Ingenieria - Calculos Electricos PRO v1.0**")
-(c) 2025 SR Ingenieria. Todos los derechos reservados.")
+    st.markdown("(c) 2025 SR Ingenieria. Todos los derechos reservados.")
