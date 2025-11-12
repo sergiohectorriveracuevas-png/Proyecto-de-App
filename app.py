@@ -369,17 +369,27 @@ Integración de normas IEC 60364/60909, IEEE 141, límites ΔV por tipo de circu
 # --- 9) Acerca de & Licencia
 with tabs[8]:
     st.subheader("Acerca de & Licencia")
+   # --- 9) Acerca de & Licencia
+with tabs[8]:
+    st.subheader("Acerca de & Licencia")
     st.markdown(
-        "**SR Ingenieria - Calculos Electricos PRO v1.0**\n"
-        "(c) 2025 SR Ingenieria. Todos los derechos reservados.\n\n"
-        "Esta herramienta implementa modelos aproximados para pre-dimensionamiento y verificacion rapida.\n"
-        "No reemplaza la ingenieria de detalle ni el cumplimiento normativo aplicable (IEC/IEEE/NTC/NFPA).\n\n"
-        "**Licenciamiento**\n"
-        "- Uso por usuario o empresa segun clave de activacion.\n"
-        "- Distribucion no autorizada prohibida.\n"
-        "- Librerias open-source: Streamlit, Pandas, Numpy, Altair, ReportLab.\n\n"
-        "**Soporte y personalizacion**\n"
-        "Integracion de normas IEC 60364/60909, IEEE 141, limites de caida de tension, tablas de ampacidad, reportes PDF y mas.\n"
+        """
+**SR Ingenieria - Calculos Electricos PRO v1.0**  
+(c) 2025 SR Ingenieria. Todos los derechos reservados.
+
+Esta herramienta implementa modelos aproximados para pre-dimensionamiento y verificacion rapida.  
+No reemplaza la ingenieria de detalle ni el cumplimiento normativo aplicable (IEC/IEEE/NTC/NFPA).
+
+**Licenciamiento**  
+- Uso por usuario o empresa segun clave de activacion.  
+- Distribucion no autorizada prohibida.  
+- Librerias open-source: Streamlit, Pandas, Numpy, Altair, ReportLab.
+
+**Soporte y personalizacion**  
+Integracion de normas IEC 60364/60909, IEEE 141, limites de caida de tension, tablas de ampacidad, reportes PDF y mas.
+        """
+    )
+
 Modelos **aproximados** para pre-dimensionamiento y verificación rápida.  
 No reemplaza ingeniería de detalle ni cumplimiento normativo (IEC/IEEE/NTC/NFPA).
 
